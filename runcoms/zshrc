@@ -19,7 +19,7 @@ function fzf_vim () {
 }
 
 # NeoVim
-alias nvim=fzf_vim
+alias vf=fzf_vim
 alias vim=nvim
 alias vi=nvim
 alias vimdiff='nvim -d'
