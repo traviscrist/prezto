@@ -74,17 +74,14 @@ function fzf_rg () {
 # TODO 
 }
 
-alias gf=gf
-alias gb=gb
-alias gt=gt
-alias gh=gh
-alias gr=gr
-
 # NeoVim
 alias vf=fzf_vim
 alias vim=nvim
 alias vi=nvim
 alias vimdiff='nvim -d'
+
+# RipGrep 
+export RIPGREP_CONFIG_PATH='~/.config/ripgrep/.ripgreprc'
 
 # FZF
 # --files: List files that would be searched but do not search
