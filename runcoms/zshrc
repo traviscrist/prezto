@@ -74,6 +74,12 @@ function fzf_rg () {
 # TODO 
 }
 
+alias gf=gf
+alias gb=gb
+alias gt=gt
+alias gh=gh
+alias gr=gr
+
 # NeoVim
 alias vf=fzf_vim
 alias vim=nvim
