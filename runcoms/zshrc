@@ -98,9 +98,6 @@ export RIPGREP_CONFIG_PATH='~/.config/ripgrep/.ripgreprc'
 export FZF_DEFAULT_COMMAND='rg --files --hidden --smart-case --follow --glob "!.git/*"'
 export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
 
-# Hub
-eval "$(hub alias -s)"
-
 # Zoxide
 eval "$(zoxide init zsh)"
 
